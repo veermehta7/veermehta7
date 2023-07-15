@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Veer </h1>
-<h3 align="center">CSE Final Year Btech Student.</h3>
+<h3 align="center">|Btech-CSE|AIML|</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Lets talk about **Software developer,Web developer,App developer,Web designer**
+- 🔭 Lets talk about **Software developer,Web developer,App developer,Web designer,Computer Vision**
 
 - 🌱 I’m currently learning **COMPUTER SCIENCE WITH HONOURS(AIML)**
 
